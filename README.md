@@ -1,4 +1,4 @@
-# Chatterbox OS: My Virtual Friend
+# My Virtual Friend:A rule-based model
 
 This is a rule-based conversational interface built entirely in Python. Unlike modern Large Language Models (LLMs), this application contains zero artificial intelligence, neural networks, or machine learning algorithms. It operates strictly on deterministic logic, regex, and string manipulation.
 
