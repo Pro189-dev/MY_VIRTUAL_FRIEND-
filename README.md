@@ -27,7 +27,7 @@ Because this is a rule-based system, it operates with strict boundaries:
 ## Installation & Usage
 
 **Option 1: Run the Executable (Windows Only)**
-1. Navigate to the [Releases](#) tab and download `my_virtual_friend.exe`.
+1. Navigate to the [Releases](https://github.com/Pro189-dev/MY_VIRTUAL_FRIEND-/releases/tag/v1.0) tab and download `my_virtual_friend.exe`.
 2. Double-click the executable. The custom fonts will temporarily load into memory, and the application will boot in full-screen mode.
 
 **Option 2: Run from Source**
